@@ -1,0 +1,272 @@
+Fully integrated, practical, no-paid-software master plan** that treats this semester like a **training program**, not just classes.
+
+---
+
+# 🧠 MY SEMESTER MASTER PLAN
+
+**Duration:** ~2.5 months (≈10–11 weeks)
+**Daily time:** ~6 hours
+**Tools:** Laptop + Internet (100% FREE)
+**Goal:**
+
+* Pass exams confidently
+* Understand concepts deeply
+* Apply everything practically
+* Leave with usable skills + mini-portfolio
+
+---
+
+## 🎯 THE 6 COURSES (FINAL LIST)
+
+1. **SOEN 302 – Design & Analysis of Algorithms (DAA)**
+2. **SOEN 308 – Reusable Software Technologies**
+3. **SOEN 330 – Software Documentation**
+4. **SOEN 380 – Object-Oriented Programming in Python**
+5. **SOEN 398 – Artificial Intelligence & Machine Learning Algorithms**
+6. **SOEN 315 – Embedded Systems**
+
+Instead of studying them separately, we’ll **pair and stack them intelligently**.
+
+---
+
+# 🔑 CORE STRATEGY (VERY IMPORTANT)
+
+> **One language, one ecosystem, many concepts.**
+
+We’ll use **Python as my anchor language**:
+
+* OOP → SOEN 380
+* Algorithms → SOEN 302
+* Reusability → SOEN 308
+* ML → SOEN 398
+* Documentation → SOEN 330
+* Embedded → SOEN 315 (with Python-friendly tools)
+
+This massively reduces mental load.
+
+---
+
+# 🧱 PHASED ROADMAP
+
+## 🔵 PHASE 1: FOUNDATIONS (Weeks 1–2)
+
+### Goals:
+
+* Build algorithmic thinking
+* Become fluent in Python OOP
+* Understand *what each course expects*
+
+### Daily Split (6 hrs):
+
+```
+2.5 hrs → SOEN 302 + SOEN 380 (paired)
+1.5 hrs → SOEN 308
+1 hr   → SOEN 330
+1 hr   → Light review / recap
+```
+
+### What you do:
+
+### 🧠 SOEN 302 (Algorithms)
+
+* Time & space complexity
+* Searching & sorting
+* Recursion
+* Basic data structures
+
+👉 Implement **every algorithm in Python**
+
+### 🐍 SOEN 380 (OOP in Python)
+
+* Classes & objects
+* Inheritance
+* Polymorphism
+* Encapsulation
+
+👉 Implement algorithms as **classes**, not scripts
+
+📌 Example:
+
+```python
+class SortAlgorithm:
+    def sort(self, data):
+        pass
+```
+
+This already overlaps **3 courses**:
+
+* Algorithms
+* OOP
+* Reusability
+
+---
+
+## 🟢 PHASE 2: SYSTEM THINKING & REUSE (Weeks 3–5)
+
+### Goals:
+
+* Think in modules, not files
+* Design reusable software
+* Write professional documentation
+
+### Daily Split:
+
+```
+2 hrs → SOEN 308
+1.5 hrs → SOEN 302
+1 hr → SOEN 380
+1 hr → SOEN 330
+0.5 hr → Review
+```
+
+### 🧩 SOEN 308 (Reusable Software Tech)
+
+I’ll learn:
+
+* Modular design
+* Separation of concerns
+* Interfaces & abstractions
+* Libraries vs frameworks
+
+👉 Practical task:
+
+* Turn my Python algorithms into a **reusable package**
+* Version it with Git
+* Write usage examples
+
+### 📝 SOEN 330 (Documentation)
+
+my document:
+
+* Algorithm explanations
+* Class diagrams
+* User manuals for your modules
+
+📌 By now, i'm already *doing* documentation, not memorizing it.
+
+---
+
+## 🟣 PHASE 3: AI + DATA + ALGORITHMS (Weeks 6–7)
+
+Now my algorithm knowledge pays off.
+
+### Goals:
+
+* Understand ML algorithms conceptually
+* Apply them practically
+* Explain results clearly
+
+### Daily Split:
+
+```
+2 hrs → SOEN 398
+1.5 hrs → SOEN 302
+1 hr → SOEN 380
+1 hr → SOEN 330
+0.5 hr → Review
+```
+
+### 🧠 SOEN 398 (AI & ML)
+
+* Linear regression
+* Classification
+* Clustering
+* Model evaluation
+
+👉 Implement using:
+
+* Python
+* NumPy
+* Pandas
+* scikit-learn
+* Google Colab (FREE)
+
+### Key rule:
+
+**Never just run a model.**
+Always:
+
+* Explain the algorithm
+* Explain the output
+* Explain limitations
+
+That’s exam gold.
+
+---
+
+## 🔌 PHASE 4: EMBEDDED SYSTEMS (Weeks 8–9)
+
+This course scares many students — we neutralize it.
+
+### 🛠 SOEN 315 (Embedded Systems)
+
+### What matters for exams:
+
+* Architecture
+* Microcontrollers
+* I/O
+* Real-time constraints
+
+### Practical (NO hardware required):
+
+* Arduino simulations (Tinkercad)
+* Raspberry Pi concepts
+* Python + GPIO simulation
+
+👉 Example project:
+
+* Simulated temperature sensor
+* Data processed by algorithm
+* Logged and documented
+
+This ties into:
+
+* Algorithms
+* Reusability
+* Documentation
+* System design
+
+---
+
+## 🔴 PHASE 5: CONSOLIDATION & EXAMS (Weeks 10–11)
+
+### What i do:
+
+* Past papers
+* Likely questions
+* Diagrams
+* Definitions
+* Teach concepts aloud
+
+### Daily:
+
+```
+3 hrs → Past papers
+2 hrs → Weak areas
+1 hr → Documentation summaries
+```
+
+---
+
+# 📁 My FINAL OUTPUT (This Is Powerful)
+
+By the end of the semester, i’ll have:
+
+* ✔ A reusable Python algorithms library
+* ✔ OOP-structured ML projects
+* ✔ Embedded system simulations
+* ✔ Professional documentation
+* ✔ GitHub repositories per course
+
+This is *far beyond* what most students do.
+
+---
+
+# 🧭 NEXT STEP (Important)
+
+ I’ll:
+
+* Lock a **daily timetable**
+* Suggest **exact weekly tasks**
+* Help build my **first integrated mini-project**
+
